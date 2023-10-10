@@ -1,0 +1,1 @@
+# Analyzing-the-pre-elections-political-speeches-of-greek-major-party-leaders
