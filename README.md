@@ -10,7 +10,7 @@ The project is designed as an experimental collaboration between political theor
 - Collect speeches from the written text that the partty provides
 - Preprocessing text(lowercase, remove stopwords, remove special characters, lemmatize)
 - Calculate word frequency(wordcloud)
-- Calculate tf-idf for bograms(N=2)
+- Calculate tf-idf for bigrams(N=2)
 - The dominant sentiment (sentiment analysis) expressed in each paragraph, categorized as positive, neutral, or negative.
 - The main topic of each speech. To conduct the thematic analysis, i have created a list of topics which may be expanded if required during the election period. The current list includes the following topics: climate change, education, health, economy, labour, elections, social causes, politics and ideology. Paragraphs that do not fit any of these topics are categorized as “other”
 - Rationality vs intuition
